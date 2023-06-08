@@ -10,12 +10,13 @@ h2 {
   text-align: center;
 }
 a {
-  color: navy;
+  color: darkgrey;
   display: block;
   text-align: center;
+  text-decoration: none;
 }
 
 img {
-  display: grid;
-  place-items: center;
+  display: block;
+  align-items: center;
 }
