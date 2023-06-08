@@ -11,9 +11,11 @@ h2 {
 }
 a {
   color: navy;
-  align-items: center;
+  display: block;
+  text-align: center;
 }
+
 img {
-  position: relative;
-  align-items: center;
+  display: grid;
+  place-items: center;
 }
