@@ -11,4 +11,9 @@ h2 {
 }
 a {
   color: navy;
+  align-items: center;
+}
+img {
+  position: relative;
+  align-items: center;
 }
